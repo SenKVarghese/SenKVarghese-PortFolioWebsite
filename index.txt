@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Sen K Varghese
+Sen K Varghese
 Web developer
 
 Show Contacts
